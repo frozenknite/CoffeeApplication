@@ -21,7 +21,7 @@ public class Main {
 			System.out.println("다름");
 		}
 		
-		
+		//이 문장은 github 작성
 	}
 
 }
